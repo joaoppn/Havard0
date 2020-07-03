@@ -1,0 +1,60 @@
+.pages { 
+    text-align: right;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+.page{
+   margin-left: 15px;
+   margin-right: 10px;
+   font-size: 13px;
+   font-family: 'Roboto', sans-serif;
+}
+
+.page:hover {
+    text-decoration: underline;
+    
+}
+
+.search{
+    margin-top: 10%;
+}
+
+.logo{
+    margin:0;
+}
+
+.box {
+    margin-bottom: 20px;
+    padding: 10px;
+    padding-left: 50px;
+    width: 600px;
+    border-radius: 50px;
+    border: 1px solid rgb(202, 198, 198);
+    outline: none;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.buttons {
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #f2f2f2;
+    background-color: #f2f2f2;
+    box-sizing: border-box;
+    cursor: pointer;
+    
+}
+
+span{
+    margin-top: 5px;
+    margin-left: 14px;
+    width: 27px;
+    height: 27px;
+    background-image: url(https://www.imagemhost.com.br/images/2020/07/03/lupa.jpg);
+    background-size: 30px;
+    overflow: auto;
+    position: absolute;
+}
